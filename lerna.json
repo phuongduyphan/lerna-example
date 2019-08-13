@@ -10,5 +10,8 @@
     "version": {
       "conventionalCommits": true
     }
+  },
+  "changelog": {
+    "repo": "https://github.com/phuongduyphan/lerna-example"
   }
 }
