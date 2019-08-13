@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "command": {
     "publish": {
       "conventionalCommits": true
@@ -12,7 +12,9 @@
     }
   },
   "changelog": {
-    "ignoreCommitters": ["allcontributors"],
+    "ignoreCommitters": [
+      "allcontributors"
+    ],
     "repo": "https://github.com/phuongduyphan/lerna-example",
     "labels": {
       "enhancement": ":rocket: New Feature",
