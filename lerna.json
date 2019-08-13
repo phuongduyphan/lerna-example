@@ -12,6 +12,11 @@
     }
   },
   "changelog": {
-    "repo": "https://github.com/phuongduyphan/lerna-example"
+    "repo": "https://github.com/phuongduyphan/lerna-example",
+    "labels": {
+      "enhancement": ":rocket: New Feature",
+      "core": ":earth_asia: Core",
+      "bug": ":bug: Bug Fix"
+    }
   }
 }
