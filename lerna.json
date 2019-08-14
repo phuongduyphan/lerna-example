@@ -15,7 +15,6 @@
     "ignoreCommitters": [
       "allcontributors"
     ],
-    "repo": "https://github.com/phuongduyphan/lerna-example",
     "labels": {
       "enhancement": ":rocket: New Feature",
       "core": ":earth_asia: Core",

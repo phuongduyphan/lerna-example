@@ -4,5 +4,9 @@
   "devDependencies": {
     "lerna": "^3.16.4",
     "lerna-changelog": "^0.8.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/phuongduyphan/lerna-example"
   }
 }
